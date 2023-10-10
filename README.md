@@ -2,6 +2,12 @@
 PIERO GALINDO</a></h1>
 <h3 align="center">A passionate Software developer from Lima, Peru! &#127470;&#127475</h3>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
@@ -34,6 +40,15 @@ PIERO GALINDO</a></h1>
   - Otros: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
   - Otros: ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Piero7210">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Piero7210&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Piero72108&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 🌟 "Passionate about creating innovative and robust solutions!"
 
-📫 Encuéntrame en [LinkedIn](https://www.linkedin.com/in/piero-galindo7210/)  |  [Portfolio](https://www.tu-portfolio.com)
+📫 Find me on [LinkedIn](https://www.linkedin.com/in/piero-galindo7210/)  |  [Portfolio](https://www.tu-portfolio.com)
