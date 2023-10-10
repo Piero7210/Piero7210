@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 PIERO GALINDO</a></h1>
 <h3 align="center">A passionate Software developer from Lima, Peru! &#127470;&#127475</h3>
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -45,7 +44,6 @@ PIERO GALINDO</a></h1>
 <p align="center">
 <a href="https://github.com/Piero7210">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Piero7210&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Piero7210&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
