@@ -12,9 +12,9 @@ PIERO GALINDO</a></h1>
 </a>
 
 🚀 About me:
-- 🔭 I’m currently studying Computer Science at <a href="https://www.london.ac.uk/" target="blank">University of London</a>
+- 🔭 I’m currently studying a BSc in Computer Science at <a href="https://www.london.ac.uk/" target="blank">University of London</a>
 
-- 🤝 I’m available for new opportunities in IT.
+- 🤝 I’m available for new opportunities in IT as a Software Engineer, Software developer, Back-end developer.
 
 - 🌱 I’m currently learning Java & Spring.
 
