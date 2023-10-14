@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 PIERO GALINDO</a></h1>
-<h3 align="center">A passionate Software developer from Lima, Peru! &#127470;&#127475</h3>
+<h3 align="center">A passionate Software developer from Lima, Peru!</h3>
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
