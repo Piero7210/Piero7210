@@ -22,7 +22,7 @@ PIERO GALINDO</a></h1>
 
 - 📫 How to reach me **piero7210@hotmail.com | piero7210@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HZMHubrcHs959EEexdoP_rkIT9qLG2ir/view?usp=sharing" target="blank">My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1XGQGL7NAnwecEGjotoUUFPfFalP4PZCl/view?usp=sharing" target="blank">My Resume</a>
 <br/>
 
 🚀 Tech and skills:
