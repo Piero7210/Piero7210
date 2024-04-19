@@ -3,7 +3,7 @@ PIERO GALINDO</a></h1>
 <h3 align="center">A passionate Software developer from Lima, Peru!</h3>
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
